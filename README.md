@@ -12,8 +12,17 @@ Back end: Node.js
 
 ## 3. Demo
 Register and login
-https://user-images.githubusercontent.com/98640241/151973497-b6c028ed-e750-415d-bf66-5bb0c1933788.mp4
+
+https://user-images.githubusercontent.com/98640241/151975792-fa639531-fb8b-4553-8251-fca400c43324.mp4
+
 Category and task manipulation
-https://user-images.githubusercontent.com/98640241/151973543-16c4d316-ac96-4010-a375-4734950cafe9.mp4
+
+
+https://user-images.githubusercontent.com/98640241/151975828-b6e0ff2f-e6cc-402b-9430-9873e7d145dc.mp4
+
+
 Distraction manipulation
-https://user-images.githubusercontent.com/98640241/151973575-94fafae5-10b3-4f80-a592-43119c99cc01.mp4
+
+
+https://user-images.githubusercontent.com/98640241/151975849-80c76c6f-27a8-45be-86ea-95d567aae0bd.mp4
+
